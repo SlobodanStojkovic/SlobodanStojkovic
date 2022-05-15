@@ -17,6 +17,26 @@
 
 </p><br>
 
+<h2 align="center">UDEMY CERTIFICATES</h2>
+<ul>
+<strong><li>React - The Complete Guide (incl Hooks, React Router, Redux) - by Maximilian Schwarzmuller</li>
+
+<li>Complete React Developer in 2022 (w/Redux, Hooks, GraphQL) - by Andrei Neagoie, Yihua Zhang</li>
+
+<li>Understanding TypeScript - 2022 Edition - by Maximilian Schwarzmuller</li>
+
+<li>Accelerated JavaScript Training - by Maximilian Schwarzmuller</li>
+
+<li>Asynchronous JavaScript: Promises, Callbacks, Async Await - by Viktor Pyskunov</li>
+
+<li>Redux-Saga with React: Fast-track Redux Saga into course - by Tom Phillips</li>
+
+<li>React testing with Jest and Enzyme - by Bonnie Schulkin</li>
+
+<li>Testing React with Jest and Testing Library - by Bonnie Schulkin</li>
+
+<li>The Git and Github Bootcamp - by Colt Steele</li></strong>
+</ul>
 
 <br>
 <h3 align="center">Connect with me:</h3>
