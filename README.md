@@ -29,7 +29,9 @@
 
 <li>Asynchronous JavaScript: Promises, Callbacks, Async Await - by Viktor Pyskunov</li>
 
-<li>Redux-Saga with React: Fast-track Redux Saga into course - by Tom Phillips</li>
+<li>Redux-Saga with React: Fast-track Redux Saga into course - by Tom Phillips</li
+
+<li>The Complete Node.js Developer Course (3rd Edition) - by Andrew Mead</li>
 
 <li>React testing with Jest and Enzyme - by Bonnie Schulkin</li>
 
